@@ -1,0 +1,4 @@
+cryptography
+FastAPI[all]
+typer[all]
+uvicorn
