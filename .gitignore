@@ -172,3 +172,23 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+.venv/
+*.py[oc]
+*.egg-info
+bin/
+pyvenv.conf
+**/pyvenv.cfg
+
+.idea/
+.vs_code/
+.codebuddy/
+
+.antlr
+
+.DS_Store
+uv.lock
+
+
+**/output/
